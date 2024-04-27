@@ -1,0 +1,29 @@
+{
+  "name": "javascript-unit-testing",
+  "version": "1.0.0",
+  "description": "Repository to practice unit testing with javascript using mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArzCorp/javascript-unit-testing.git"
+  },
+  "keywords": [
+    "javascript",
+    "mocha",
+    "chai",
+    "unit-testing",
+    "testing"
+  ],
+  "author": "Osvaldo Arzate Santiago @_ArzCorp_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArzCorp/javascript-unit-testing/issues"
+  },
+  "homepage": "https://github.com/ArzCorp/javascript-unit-testing#readme",
+  "devDependencies": {
+    "mocha": "10.4.0"
+  }
+}
